@@ -19,6 +19,10 @@ section{
 
 .section-1 {
 	background: #063647;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
 }
 
 .section-2 {
@@ -95,6 +99,7 @@ a.nav-item:hover {
 	font-size: 1rem;
 	text-transform: uppercase;
 	border-bottom: 2px solid rgba(255, 50, 79, 0.5);
+	cursor: ;
 }
 
 .intro {
